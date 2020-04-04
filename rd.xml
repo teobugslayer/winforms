@@ -1,0 +1,7 @@
+<Directives>
+    <Application>
+      <!--MarshalStructure="Required All"-->
+      <Assembly Name="System.Resources.Extensions"  Dynamic="Required All"/>
+      <Assembly Name="System.Windows.Extensions" Dynamic="Required All"/>
+    </Application>
+</Directives>
